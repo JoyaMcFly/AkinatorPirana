@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Proyecto FINAL</title>
+	<title>AAAAAAAAAAAAAAAAAAAAAAAAAAA</title>
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 
