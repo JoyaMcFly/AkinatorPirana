@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Akinator Pirana</title>
+	<title>Javinatooooooooooooor</title>
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 
