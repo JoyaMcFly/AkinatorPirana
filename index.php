@@ -1,7 +1,7 @@
 <html>
 
 <head>
-	<title>Javinator</title>
+	<title>Akinator Pirana</title>
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
 </head>
 
